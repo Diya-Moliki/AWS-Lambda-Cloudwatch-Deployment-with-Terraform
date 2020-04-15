@@ -2,7 +2,7 @@ Instruction:
 
 Open Check_file_lambda.py to change s3 bucket name
 
-Run The following commands
+Run The following commands: 
 
 pip install virtualenv 
 
