@@ -1,3 +1,5 @@
+USING TERRFORM TO DEPLOY LAMBDA AND CLOUDWATCH 
+
 Instruction: 
 
 Open Check_file_lambda.py to change s3 bucket name
